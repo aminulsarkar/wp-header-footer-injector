@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Header & Footer Code Injector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-03 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-8.3.25\n"
+"X-Domain: wp-hfi"
+
+#: includes/admin-page.php:72
+msgid ""
+"<!-- JavaScript Code -->\n"
+"<script>\n"
+"console.log('Footer injector working');\n"
+"</script>"
+msgstr ""
+
+#: includes/admin-page.php:58
+msgid ""
+"<!-- JavaScript Code -->\n"
+"<script>\n"
+"console.log('Header injector working');\n"
+"</script>\n"
+"\n"
+"<!-- CSS Code -->\n"
+"<style>\n"
+"div {\n"
+"    width: 50%;\n"
+"}\n"
+"</style>"
+msgstr ""
+
+#: includes/admin-page.php:37
+msgid ""
+"Add custom scripts like Google Analytics, Facebook Pixel, or custom CSS "
+"safely."
+msgstr ""
+
+#. Author of the plugin
+msgid "Aminul Sarkar"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily add custom scripts to WordPress header and footer without editing "
+"theme files."
+msgstr ""
+
+#: includes/admin-page.php:49
+msgid "Enable Header & Footer code injection"
+msgstr ""
+
+#: includes/admin-page.php:44
+msgid "Enable Injection"
+msgstr ""
+
+#: includes/admin-page.php:69
+msgid "Footer Code"
+msgstr ""
+
+#. Page title
+#: includes/admin-page.php:20
+msgid "Header & Footer"
+msgstr ""
+
+#: includes/admin-page.php:19
+msgid "Header & Footer Injector"
+msgstr ""
+
+#: includes/admin-page.php:55
+msgid "Header Code"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://aminulsarkar.com/"
+msgstr ""
+
+#: includes/admin-page.php:77
+msgid "Injected before"
+msgstr ""
+
+#: includes/admin-page.php:64
+msgid "Injected inside"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin-page.php:36
+msgid "WP Header & Footer Code Injector"
+msgstr ""
