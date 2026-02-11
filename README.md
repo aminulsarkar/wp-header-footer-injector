@@ -28,7 +28,8 @@
 
 ## Usage
 
-- **Header Code**: Scripts injected inside `<head>`  
+- **Header Code**: Scripts injected inside `<head>`
+- **Body Open Code**: Scripts injected right after `<body>`
 - **Footer Code**: Scripts injected before `</body>`  
 - Placeholders show example JavaScript and CSS for guidance  
 - Toggle to enable or disable code injection easily
